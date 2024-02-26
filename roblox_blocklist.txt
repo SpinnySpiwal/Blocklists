@@ -2,7 +2,7 @@
 ! Title: Roblox Complete URL Blocklist
 ! Description: Prevents the Roblox platform from functioning in any way shape or form. Great for iPad kid managment!
 ! Homepage: https://github.com/SpinnySpiwal/Blocklists
-! Last modified: 2023-11-21T17:45:17.050Z
+! Last modified: 2024-26-02
 !
 ! Compiled by SpinnySpiwal
 !
